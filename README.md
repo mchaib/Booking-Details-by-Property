@@ -1,0 +1,2 @@
+# Booking-Details-by-Property
+The Overview of Booking Details by Property is a data set containing the details of each booking event in the period of May 2013 to September 2015 in Arosa Lenzerheide. Over 1300 bookings are described in terms of their booking number, sequence, modification date, creation Date, total amount paid (CHF), LoginId, number of adults, number of children, its sales point, property type, source of booking, number of adult meals, number of children's meals, tourist tax for first adult and tourist tax for the second adult. 
